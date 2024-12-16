@@ -1,0 +1,92 @@
+Uri: http://www.pdd24.com/css/docs18.css
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\css\docs18-1.css
+Content Type: text/css
+
+Uri: http://www.pdd24.com/favicon.ico
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: http://www.pdd24.com/for-school
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\for-school-1.html
+Content Type: text/html
+
+Uri: http://www.pdd24.com/SchoolModule/SchoolModule.nocache.js
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\SchoolModule\SchoolModule.nocache-1.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/11146309
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\watch\11146309
+Content Type: image/gif
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://storage.yandexcloud.net/pddlife/gibddlogo_pdd24.png
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\pddlife\gibddlogo_pdd24.png
+Content Type: image/png
+
+Uri: https://storage.yandexcloud.net/pddlife/google-play-ru.min.svg
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\pddlife\google-play-ru.min.svg
+Content Type: image/svg+xml
+
+Uri: https://storage.yandexcloud.net/pddlife/startImage24.jpg
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\pddlife\startImage24.jpg
+Content Type: image/jpeg
+
+Uri: https://storage.yandexcloud.net/pddlife/TvYPQCY.png
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\pddlife\TvYPQCY.png
+Content Type: image/png
+
+Uri: https://www.pdd24.com/css/docs18.css
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\css\docs18.css
+Content Type: text/css
+
+Uri: https://www.pdd24.com/favicon.ico
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.pdd24.com/for-school
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\for-school.html
+Content Type: text/html
+
+Uri: https://www.pdd24.com/SchoolModule/SchoolModule.nocache.js
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\SchoolModule\SchoolModule.nocache.js
+Content Type: application/javascript
+
+Uri: https://yandex.ru/ads/system/context.js
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\ads\system\context.js
+Content Type: text/javascript
+
+Uri: https://yastatic.net/bootstrap/3.3.6/css/bootstrap.min.css
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.6\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://yastatic.net/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yastatic.net/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yastatic.net/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://yastatic.net/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yastatic.net/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://yastatic.net/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://yastatic.net/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\vladislav\Desktop\121212\www.pdd24.com\jquery\3.3.1\jquery.min.js
+Content Type: application/x-javascript
+
